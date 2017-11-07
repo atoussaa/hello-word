@@ -1,2 +1,3 @@
 # hello-word
-practicing GitHub
+Practicing GitHub
+Progressing
